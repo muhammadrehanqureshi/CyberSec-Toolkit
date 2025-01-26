@@ -58,7 +58,7 @@ pip install cryptography
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:  
    ```bash
-   git clone https://github.com/your-username/CyberSec-Toolkit.git
+   git clone https://github.com/muhammadrehanqureshi/CyberSec-Toolkit.git
    ```
 
 2. **Navigate to the Project Directory**  
